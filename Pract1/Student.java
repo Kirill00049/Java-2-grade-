@@ -9,7 +9,7 @@ public class Student {
     }
 
     public String toString(){
-        return name + " " + name + ", возраст которого - " + age;
+        return "Студент " + name + ", возраст которого - " + age;
     }
 
 }
